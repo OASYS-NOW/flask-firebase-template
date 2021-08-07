@@ -1,0 +1,23 @@
+{
+  "name": "flask-firebase-template",
+  "version": "1.0.0",
+  "description": "Code of this tutorial https://medium.com/firebase-developers/hosting-flask-servers-on-firebase-from-scratch-c97cfb204579",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OASYS-NOW/flask-firebase-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OASYS-NOW/flask-firebase-template/issues"
+  },
+  "homepage": "https://github.com/OASYS-NOW/flask-firebase-template#readme",
+  "devDependencies": {
+    "firebase-tools": "^9.16.0"
+  }
+}
